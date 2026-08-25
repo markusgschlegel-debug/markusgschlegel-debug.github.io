@@ -1,0 +1,7 @@
+<svg viewBox="0 0 150 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CE-Kennzeichen">
+  <g fill="none" stroke="#111111" stroke-width="12">
+    <path d="M47 19 A24 24 0 1 0 47 53" />
+    <path d="M117 19 A24 24 0 1 0 117 53" />
+    <line x1="100" y1="36" x2="124" y2="36" />
+  </g>
+</svg>

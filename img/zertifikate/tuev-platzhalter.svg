@@ -1,0 +1,6 @@
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TÜV-Prüfzeichen (Platzhalter)">
+  <circle cx="36" cy="36" r="33" fill="none" stroke="#111111" stroke-width="3" />
+  <circle cx="36" cy="36" r="27" fill="none" stroke="#111111" stroke-width="1.5" />
+  <text x="36" y="41" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#111111">TÜV</text>
+  <text x="36" y="56" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="7.5" letter-spacing="1" fill="#111111">GEPRÜFT</text>
+</svg>
