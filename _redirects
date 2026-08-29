@@ -1,0 +1,10 @@
+# Weiterleitungen fuer Cloudflare Pages (auf GitHub Pages ohne Wirkung).
+#
+# Astro erzeugt fuer konfigurierte Weiterleitungen eine HTML-Seite mit
+# meta-refresh. Das funktioniert, ist fuer Suchmaschinen aber deutlich
+# schwaecher als ein echter 301. Hier steht deshalb dieselbe Weiterleitung
+# noch einmal als richtige Umleitung; Cloudflare beantwortet sie, bevor die
+# HTML-Datei ueberhaupt ausgeliefert wird.
+
+/preisrechner  /shop  301
+/preisrechner/ /shop  301
