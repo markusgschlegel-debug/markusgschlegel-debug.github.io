@@ -8,3 +8,16 @@
 
 /preisrechner  /shop  301
 /preisrechner/ /shop  301
+
+# Alte Tippgeber-Links. Auf GitHub Pages uebernimmt das die von Astro
+# erzeugte meta-refresh-Seite; hier steht der echte 301 fuer Cloudflare.
+/185      /?code=ISD  301
+/185/     /?code=ISD  301
+/1676     /?code=ISD  301
+/1676/    /?code=ISD  301
+/15136    /?code=ISD  301
+/15136/   /?code=ISD  301
+/1471     /?code=HEIKODIETRICH  301
+/1471/    /?code=HEIKODIETRICH  301
+/1480     /?code=GABRIELESPROW  301
+/1480/    /?code=GABRIELESPROW  301
