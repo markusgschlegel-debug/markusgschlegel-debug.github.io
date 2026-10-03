@@ -2,7 +2,7 @@
 
 > Thermoreflektierende Nano-Dämmbeschichtung mit nur ca. 1 mm Schichtstärke für Fassade, Innenraum, Boden, Flachdach und Industrie – als Alternative zu klassischem WDVS. Betreiberin der Website ist die mkm International GmbH, Boschstr. 16, 47533 Kleve.
 
-Die Website stellt die Systeme, ihre Technik und die Garantien vor, berechnet im Shop unverbindlich die Materialkosten nach Fläche und nimmt Anfragen entgegen. Verbindliche Preise und Bedingungen stehen erst im Angebot. Die Seiten gibt es auf Deutsch und in elf weiteren Sprachen.
+Die Website stellt die Systeme, ihre Technik und die Garantien vor, berechnet im Shop unverbindlich die Materialkosten nach Fläche und nimmt Anfragen entgegen. Verbindliche Preise und Bedingungen stehen erst im Angebot. Die Seiten gibt es auf Deutsch und in zwölf weiteren Sprachen.
 
 ## Angebot und Kontakt
 
@@ -57,3 +57,4 @@ Die Website stellt die Systeme, ihre Technik und die Garantien vor, berechnet im
 - [Čeština](https://nanofassadendaemmung.de/cs/)
 - [Slovenčina](https://nanofassadendaemmung.de/sk/)
 - [Slovenščina](https://nanofassadendaemmung.de/sl/)
+- [Ελληνικά](https://nanofassadendaemmung.de/el/)
