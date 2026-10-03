@@ -32,6 +32,7 @@ Die Website stellt die Systeme, ihre Technik und die Garantien vor, berechnet im
 - [Öko-Bilanz](https://nanofassadendaemmung.de/technik/oeko-bilanz/): Nachhaltigkeit und Umweltbilanz
 - [Vergleich zu WDVS](https://nanofassadendaemmung.de/technik/vergleich-wdvs/): im Vergleich zu klassischen Dämmverfahren
 - [Garantie](https://nanofassadendaemmung.de/technik/garantie/): bis zu 25 Jahre Herstellergarantie
+- [NANO.WIKI](https://nanofassadendaemmung.de/nano-wiki/): die vier Nachweise zur Wirkung – Wärmeleitbegrenzung, Oberfläche und Wärmestrahlung, Wärmereflexion, Messung am Bauteil – jeweils mit Kennwert, Quelle, Stand und dem, was der Nachweis nicht zeigt
 - [NANO.DOCS](https://nanofassadendaemmung.de/docs/): Systemhandbücher, Zertifikate und weitere Dokumente
 
 ## Neuigkeiten
