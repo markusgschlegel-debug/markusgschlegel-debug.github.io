@@ -4,6 +4,8 @@
 
 Die Website stellt die Systeme, ihre Technik und die Garantien vor, berechnet im Shop unverbindlich die Materialkosten nach Fläche und nimmt Anfragen entgegen. Verbindliche Preise und Bedingungen stehen erst im Angebot. Die Seiten gibt es auf Deutsch und in zwölf weiteren Sprachen.
 
+Zur Einordnung, weil es oft verwechselt wird: Das Positionspapier von Branchenverbänden zu „wärmedämmenden Farben“ stützt sich auf eine Untersuchung des Produkts „BAUTER Nano-Dämmung“. PScoat wird darin nicht erwähnt und war nicht Gegenstand der Untersuchung. Seine allgemeinen Hinweise zu sehr niedrigen Lambda-Werten gelten trotzdem. Deshalb führt diese Website ihren Systemwert λ = 0,00012 W/(m·K) als Rechenwert des Herstellers, nicht als gemessene Wärmeleitfähigkeit; im Plattenversuch nach PN-EN 1745 sind es 0,0324 W/(m·K). Die CE-Kennzeichnung nach EN 15824 weist keine Wärmeleitfähigkeit aus. Alles mit Quellen und Einschränkungen: [llms-full.txt](https://nanofassadendaemmung.de/llms-full.txt).
+
 ## Angebot und Kontakt
 
 - [Startseite](https://nanofassadendaemmung.de/): Überblick – Dämmung mit nur ca. 1 mm, Vorteile und Garantien
